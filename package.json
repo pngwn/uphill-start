@@ -32,7 +32,6 @@
 		"remark-parse": "^11.0.0",
 		"unified": "^11.0.4",
 		"unist-util-find-all-between": "^2.1.0",
-		"unist-util-visit": "^5.0.0",
-		"weaviate-ts-embedded": "^1.2.0"
+		"unist-util-visit": "^5.0.0"
 	}
 }
